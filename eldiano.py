@@ -1,7 +1,7 @@
 class Eldiano:
-    def __init__(self, nome, nascionalidade, titan):
+    def __init__(self, nome, nacionalidade, titan):
         self.nome = nome
-        self.nascionalidade = nascionalidade
+        self.nacionalidade = nacionalidade
         self.titan = titan
 
     def transformar_em_titan(self):
